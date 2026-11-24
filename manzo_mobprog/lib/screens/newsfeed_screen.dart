@@ -22,7 +22,7 @@ class NewsFeedScreen extends StatelessWidget {
           numOfLikes: 200,
           hasImage: true,
           imagePath: 'assets/images/cardo.jpg',
-          avatarPath: 'assets/images/cardo.jpg',
+          avatarPath: 'assets/images/cardodap.jpg',
           date: 'December 2',
         ),
       ],

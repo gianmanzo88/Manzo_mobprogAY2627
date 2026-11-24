@@ -194,10 +194,11 @@ class _NewsFeedCardState extends State<NewsFeedCard> {
             Row(
               children: [
                 const CircleAvatar(
-                  radius: 17,
-                  child: Icon(Icons.person, size: 18),
-                ),
- 
+  radius: 16,
+  backgroundImage: AssetImage(
+    'assets/images/manzo.jpg',
+  ),
+),
                 const SizedBox(width: 8),
  
                 Expanded(
